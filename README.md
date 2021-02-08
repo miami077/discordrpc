@@ -1,6 +1,6 @@
 <h1 align="center">SimpleDiscordRPC</h1>
 <p align="center">A Simple Discord Custom Rich Presence with Modern Design!</p>
-<p align="center">Read the <a href="https://miami077.ml/simplerpc/terms">Terms</a> before using SimpleRPC or SimpleR´PC Source.</p> 
+<p align="center">Read the <a href="https://miami077.ml/simplerpc/terms">Terms</a> before using SimpleRPC or SimpleRPC Source.</p> 
 <p align="center">
   <a style="text-decoration:none" href="https://github.com/miami077/discordrpc/releases/download/v1.0/SimpleDiscordRPC.exe">
     <img src="https://img.shields.io/github/v/release/miami077/discordrpc?include_prereleases" alt="download" />
