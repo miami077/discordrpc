@@ -11,7 +11,6 @@
   </p>
 </p>
 <br />
-<h2>Vizora</h2> 
 <p align="center">
   <img src="log-in.PNG" width="550" align="column">
   <img src="mainpage.PNG" width="550" align="column">
