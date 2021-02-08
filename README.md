@@ -3,4 +3,4 @@
 <img src="log-in.PNG" width="550" align="column">
 <img src="mainpage.PNG" width="550" align="column">
 <img src="mainpageEnabled.PNG" width="550" align="column">
-<img src="RPC.PNG" width="150" align="column">
+<img src="RPC.PNG" width="200" align="column">
